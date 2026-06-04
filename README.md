@@ -1,24 +1,16 @@
-\#kintar0X
+#kintar0X
 
-\*\*Ещё пасидим\*\*
+**Ещё пасидим**
 
-
-
-\_Вот и думай головой\_\_
+_Вот и думай головой_
 
 
 
 ```java
-
 public class Simple {
-
-&#x20;   public static void main(String\[] args) {
-
-&#x20;       System.out.println("KintaroX здесь.");
-
-&#x20;   }
-
+    public static void main(String[] args) {
+        System.out.println("KintaroX здесь.");
+    }
 }
-
 ```
 
